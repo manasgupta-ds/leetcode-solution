@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0012-integer-to-roman) |
+| [0263-ugly-number](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0263-ugly-number) |
 ## String
 |  |
 | ------- |
