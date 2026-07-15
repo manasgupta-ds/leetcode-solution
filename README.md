@@ -10,6 +10,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0263-ugly-number](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0263-ugly-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -23,4 +24,8 @@
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/manasgupta-ds/leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
