@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0012-integer-to-roman) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/manasgupta-ds/leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
