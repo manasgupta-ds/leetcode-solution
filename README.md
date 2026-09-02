@@ -13,6 +13,7 @@
 | [0263-ugly-number](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0263-ugly-number) |
 | [2396-strictly-palindromic-number](https://github.com/manasgupta-ds/leetcode-solution/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/manasgupta-ds/leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
