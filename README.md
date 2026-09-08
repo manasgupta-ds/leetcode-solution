@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0012-integer-to-roman) |
+| [0496-next-greater-element-i](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -24,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/manasgupta-ds/leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -40,4 +42,12 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/manasgupta-ds/leetcode-solution/tree/master/2396-strictly-palindromic-number) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
