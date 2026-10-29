@@ -12,6 +12,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0263-ugly-number](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0263-ugly-number) |
+| [0633-sum-of-square-numbers](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/manasgupta-ds/leetcode-solution/tree/master/2396-strictly-palindromic-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/manasgupta-ds/leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/manasgupta-ds/leetcode-solution/tree/master/2396-strictly-palindromic-number) |
 ## Number Theory
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0496-next-greater-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
