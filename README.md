@@ -14,6 +14,7 @@
 | [0263-ugly-number](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0263-ugly-number) |
 | [0633-sum-of-square-numbers](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/manasgupta-ds/leetcode-solution/tree/master/2396-strictly-palindromic-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3870-count-commas-in-range) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/manasgupta-ds/leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
