@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [1920-build-array-from-permutation](https://github.com/manasgupta-ds/leetcode-solution/tree/master/1920-build-array-from-permutation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/manasgupta-ds/leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/manasgupta-ds/leetcode-solution/tree/master/0633-sum-of-square-numbers) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/manasgupta-ds/leetcode-solution/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
