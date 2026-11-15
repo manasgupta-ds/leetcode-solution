@@ -35,6 +35,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/manasgupta-ds/leetcode-solution/tree/master/1920-build-array-from-permutation) |
+| [3925-concatenate-array-with-reverse](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Graph Theory
 |  |
 | ------- |
