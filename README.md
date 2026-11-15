@@ -34,6 +34,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/manasgupta-ds/leetcode-solution/tree/master/1920-build-array-from-permutation) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/manasgupta-ds/leetcode-solution/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
